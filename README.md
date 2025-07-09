@@ -15,7 +15,7 @@ A simple React-based weather app that fetches and displays real-time weather dat
 
 ## 📷 Screenshot
 
-![Weather App Screenshot](./screenshot.png)
+![Weather App Screenshot](./Screenshot.png)
 
 ---
 
